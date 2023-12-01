@@ -39,7 +39,7 @@ English (fluent), Russian (native speaker), German (A2)
 ## Experience
 **Data Scientist** – 02/2023 - 10/2023\
 be factory UG / Hannover\
-Worked with large datasets by scraping web data, formatting, cleaning, generating new data and performing statistical analysis using python. Contributed significantly to the development of  the pilot app version - skin.sure.
+Worked with large datasets by scraping web data, formatting, cleaning, generating new data and performing statistical analysis using python. Performed cluster analysis on skincare related data. Contributed significantly to the development of  the pilot app version - skin.sure. 
 
 ## Education
 **PhD - Computational and Protein Biology** – 12/2020 - 08/2024\
